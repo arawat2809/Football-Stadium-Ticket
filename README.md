@@ -58,3 +58,4 @@ Find [@thebuggeddev on GitHub](https://github.com/thebuggeddev) and [@thebuggedd
 Send email to [thebuggeddev@gmail.com](mailto:thebuggeddev@gmail.com).
 
 Copyright © 2026 thebuggeddev.
+# Football-Stadium-Ticket
